@@ -4,3 +4,4 @@ train_ver2.csv
 .ipynb_checkpoints
 **/.ipynb_checkpoints/*
 kaggle.json
+labels.csv
