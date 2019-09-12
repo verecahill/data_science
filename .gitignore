@@ -5,3 +5,7 @@ train_ver2.csv
 **/.ipynb_checkpoints/*
 kaggle.json
 labels.csv
+xgboost_test.py
+xgb.baseline_predict
+xgb.baseline.2015-06-28
+xgb.baseline.pkl
